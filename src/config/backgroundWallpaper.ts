@@ -41,12 +41,13 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// 桌面背景图片（支持单张或多张随机）
 		// desktop: "assets/images/DesktopWallpaper/d1.avif",
 		desktop: [
-			"assets/images/DesktopWallpaper/d1.avif",
-			"assets/images/DesktopWallpaper/d2.avif",
-			"assets/images/DesktopWallpaper/d3.avif",
-			"assets/images/DesktopWallpaper/d4.avif",
-			"assets/images/DesktopWallpaper/d5.avif",
-			"assets/images/DesktopWallpaper/d6.avif",
+			// "assets/images/DesktopWallpaper/d1.avif",
+			// "assets/images/DesktopWallpaper/d2.avif",
+			// "assets/images/DesktopWallpaper/d3.avif",
+			// "assets/images/DesktopWallpaper/d4.avif",
+			// "assets/images/DesktopWallpaper/d5.avif",
+			// "assets/images/DesktopWallpaper/d6.avif",
+			"assets/images/DesktopWallpaper/D1.png",
 		],
 		// 移动背景图片（支持单张或多张随机）
 		// mobile: "assets/images/MobileWallpaper/m1.avif",
@@ -70,16 +71,16 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否允许用户通过控制面板切换横幅标题显示
 			switchable: true,
 			// 主页横幅主标题
-			title: "Lovely firefly!",
+			title: "我渴望有人至死都暴烈地爱着我，明白爱与死一样强大。‌‌",
 			// 主页横幅主标题字体大小
-			titleSize: "3.8rem",
+			titleSize: "2.1rem",
 			// 主页横幅副标题
 			subtitle: [
-				"In Reddened Chrysalis, I Once Rest",
-				"From Shattered Sky, I Free Fall",
-				"Amidst Silenced Stars, I Deep Sleep",
-				"Upon Lighted Fyrefly, I Soon Gaze",
-				"From Undreamt Night, I Thence Shine",
+				"有人把爱意藏了好多年",
+				"只爱那个死磕一辈子都想拥有的人",
+				"你是我最佳的黄道吉日",
+				"平安回家",
+				"只喜欢你",
 				"In Finalized Morrow, I Full Bloom",
 			],
 			// 主页横幅副标题字体大小
