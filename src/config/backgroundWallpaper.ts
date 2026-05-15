@@ -47,7 +47,8 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// "assets/images/DesktopWallpaper/d4.avif",
 			// "assets/images/DesktopWallpaper/d5.avif",
 			// "assets/images/DesktopWallpaper/d6.avif",
-			"assets/images/DesktopWallpaper/D1.png",
+			//"assets/images/DesktopWallpaper/D1.png",
+			"assets/images/DesktopWallpaper/D2.jpg",
 		],
 		// 移动背景图片（支持单张或多张随机）
 		// mobile: "assets/images/MobileWallpaper/m1.avif",
@@ -81,7 +82,6 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 				"你是我最佳的黄道吉日",
 				"平安回家",
 				"只喜欢你",
-				"In Finalized Morrow, I Full Bloom",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
