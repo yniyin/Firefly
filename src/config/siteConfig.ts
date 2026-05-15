@@ -26,7 +26,7 @@ export const siteConfig: SiteConfig = {
 		"刘贤成",
 		"liuxianchen",
 		"包银和刘贤成",
-		"技术博客",
+		"bylxc",
 		"静态博客",
 	],
 

@@ -5,16 +5,7 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "遇见更好的自己",
 
 	// 公告内容
-	content: "不必追赶别人的脚步,\r\n\
-	只专注自己的节奏。\r\n\
-	好好吃饭,规律训练,\r\n\
-	戒掉内耗,稳住作息。\r\n\
-	把身材练得挺拔,把心态养得从容,\r\n\
-	不焦虑身高,不纠结过往,\r\n\
-	在日复一日的自律里,\r\n\
-	慢慢沉淀、悄悄蜕变。\r\n\
-	慢慢来,坚持下去,\r\n\
-	你终会遇见干净、自律、闪闪发光的自己✨",
+	content: "褪去浮躁，余生慢慢遇见更好的自己✨",
 
 	// 是否允许用户关闭公告
 	closable: true,
@@ -30,3 +21,4 @@ export const announcementConfig: AnnouncementConfig = {
 		external: false,
 	},
 };
+
