@@ -48,7 +48,8 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// "assets/images/DesktopWallpaper/d5.avif",
 			// "assets/images/DesktopWallpaper/d6.avif",
 			//"assets/images/DesktopWallpaper/D1.png",
-			"assets/images/DesktopWallpaper/D2.jpg",
+			//"assets/images/DesktopWallpaper/D2.jpg",
+			"assets/images/DesktopWallpaper/D3.png",
 		],
 		// 移动背景图片（支持单张或多张随机）
 		// mobile: "assets/images/MobileWallpaper/m1.avif",
