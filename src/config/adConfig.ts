@@ -29,13 +29,13 @@ export const adConfig1: AdConfig = {
 		// top: "0",
 
 		// 右侧无边距
-		// right: "1rem",
+		right: "1rem",
 
 		// 底部无边距
 		// bottom: "1rem",
 
 		// 左侧无边距
-		// left: "1rem",
+		left: "1rem",
 	},
 };
 
