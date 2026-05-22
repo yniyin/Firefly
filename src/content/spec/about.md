@@ -29,8 +29,8 @@
 如果你想和我交流技术问题，分享有趣的想法，或者只是想打个招呼，欢迎通过以下方式联系我：
 
 - 💻 **GitHub**: [yniyin](https://github.com/yniyin)
-- ✉️ **Email**: 3127144755@qq.com
-- 🐧 **QQ：3127144755**
+- ✉️ **Email**: [3127144755@qq.com](https://github.com/yniyin)
+- 🐧 **QQ：[3127144755](https://github.com/yniyin)**
 
 ---
 
