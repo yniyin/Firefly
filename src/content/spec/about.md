@@ -19,9 +19,11 @@
 
 **⭐Fuwari开源地址：[https://github.com/saicaca/fuwari](https://github.com/saicaca/fuwari)**
 
-::github{repo="CuteLeaf/Firefly"}
+<!-- 
+::github{repo="yniyin/Firefly"}
 
-::github{repo="saicaca/fuwari"}
+::github{repo="yniyin/CloudFlare-ImgBed"} 
+-->
 
 
 ## 📫 联系方式
