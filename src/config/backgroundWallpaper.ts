@@ -39,19 +39,15 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 	 */
 	src: {
 		// 桌面背景图片（支持单张或多张随机）
-		// desktop: "assets/images/DesktopWallpaper/d1.avif",
-		desktop: [
-			"assets/images/DesktopWallpaper/D1.png",
-			"assets/images/DesktopWallpaper/D2.jpg",
-			"assets/images/DesktopWallpaper/D3.jpg",
-			"assets/images/DesktopWallpaper/D4.jpg",
-			"assets/images/DesktopWallpaper/D5.jpg",
-		],
+		 desktop: "assets/images/DesktopWallpaper/D1.png",
+		// desktop: [
+		// 	"assets/images/DesktopWallpaper/D1.png",
+		// ],
 		// 移动背景图片（支持单张或多张随机）
-		// mobile: "assets/images/MobileWallpaper/m1.avif",
-		mobile: [
-			"assets/images/MobileWallpaper/1.jpg",
-		],
+		 mobile: "assets/images/MobileWallpaper/1.jpg",
+		// mobile: [
+		// 	"assets/images/MobileWallpaper/1.jpg",
+		// ],
 	},
 	// 横幅壁纸和全屏壁纸共享配置
 	common: {
