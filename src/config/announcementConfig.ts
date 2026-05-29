@@ -5,10 +5,10 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "遇见更好的自己",
 
 	// 公告内容
-	content: "褪去浮躁，余生慢慢遇见更好的自己✨",
+	content: "✨本网站只是我的一些笔记和一些回忆记录",
 
 	// 是否允许用户关闭公告
-	closable: true,
+	closable: false,
 
 	link: {
 		// 启用链接
