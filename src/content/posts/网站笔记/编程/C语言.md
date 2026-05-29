@@ -1,10 +1,11 @@
 ---
-title: C语言笔记
-published: 2026-05-13 
-description: C语言笔记  
-tags: [编程] 
-category: 编程 
-draft: false 
+title: C语言
+published: 2026-05-13
+description: C语言
+tags:
+  - 编程
+category: 编程语言
+draft: false
 ---
 # 入门
 
