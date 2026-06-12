@@ -8,7 +8,6 @@ category: 编程语言
 draft: false
 ---
 # 入门
-
 ## C语言基本格式
 
 ```c
